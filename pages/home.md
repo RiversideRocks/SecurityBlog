@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Riverside Rocks Threat Intelligence
-L33t h@ckz research found on the world wide web.
+# Riverside Rocks Blog
+~~Not~~ just another blog.
 
 [Read the blog](/blog/)
